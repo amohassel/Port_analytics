@@ -1,0 +1,16 @@
+rank,portid,portname,fullname,ISO3,lat,lon,vessel_count_total,vessel_count_container,vessel_count_dry_bulk,vessel_count_general_cargo,vessel_count_RoRo,vessel_count_tanker,industry_top1,share_country_maritime_import,share_country_maritime_export
+1,port481,Houston (US-TX),"Houston (US-TX), United States",USA,29.72023114,-95.13978774,7358,984,735,562,63,5014,Mineral Products,8.21,17.78
+2,port812,New Orleans,"New Orleans, United States",USA,29.93003343,-90.13086772,5783,430,2620,429,20,2284,Mineral Products,5.63,9.26
+3,port815,New York-New Jersey,"New York-New Jersey, United States",USA,40.63298387,-74.17942126,3883,2190,205,51,338,1099,Mineral Products,12.42,2.36
+4,port664,Los Angeles-Long Beach,"Los Angeles-Long Beach, United States",USA,33.75569193,-118.2437881,3793,1886,527,122,285,973,Mineral Products,22.59,5.69
+5,port1214,South Louisiana,"South Louisiana, United States",USA,30.12379526,-90.86781072,2450,4,1196,79,5,1166,Mineral Products,2.38,7.4
+6,port951,Port Everglades,"Port Everglades, United States",USA,26.0810509,-80.12439561,2316,1471,67,283,116,379,Mineral Products,1.88,0.22
+7,port1170,Savannah,"Savannah, United States",USA,32.10402454,-81.10052022,2274,1603,201,127,89,254,Mineral Products,5.4,2.36
+8,port103,Baltimore,"Baltimore, United States",USA,39.25976037,-76.5569733,1792,501,453,185,559,94,Mineral Products,1.27,2.08
+9,port231,Charleston,"Charleston, United States",USA,32.8992962,-79.92115799,1754,1211,90,94,204,155,Mineral Products,2.92,1.09
+10,port264,Corpus Christi,"Corpus Christi, United States",USA,27.84122725,-97.37990791,1723,3,186,67,13,1454,Mineral Products,0.55,6.36
+11,port513,Jacksonville,"Jacksonville, United States",USA,30.3833261,-81.58303357,1322,589,87,93,387,166,Mineral Products,1.08,0.25
+12,port2066,Port of Virginia,"Port of Virginia, United States",USA,36.9364539978554,-76.3200234036896,1275,1130,61,41,6,37,,2.75,1.71
+13,port736,Miami,"Miami, United States",USA,25.77821728,-80.1832659,1222,804,0,395,5,18,Mineral Products,0.43,0.11
+14,port134,Beaumont,"Beaumont, United States",USA,30.02582322,-94.03028275,1204,8,53,47,23,1073,Mineral Products,0.12,4.19
+15,port933,Port Arthur,"Port Arthur, United States",USA,29.88170301,-93.93104818,1192,11,170,86,13,912,Mineral Products,1.96,2.44

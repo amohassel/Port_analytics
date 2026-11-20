@@ -1,0 +1,15 @@
+# Large reference data (489 MB; GitHub's limit is 100 MB per file)
+port_trade_network.csv
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
